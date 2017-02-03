@@ -1,2 +1,4 @@
 # Patkai
-GeoJSON data for historical villages in the Patkai range
+Interface and GeoJSON data for historical and modern-day villages in the Patkai range
+
+!()[phonemica.net/github/patkai.png]
