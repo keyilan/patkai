@@ -1,0 +1,34 @@
+{
+    _id: ObjectId("58918113ebcacc3e0c004248"),
+    coord: [
+        27.21281,
+        95.94412
+    ],
+    display: {
+        color: "#fa0"
+    },
+    id: "6034d65e-0c76-47d5-877a-305fa46fcff4",
+    properties: {
+        group: "Rếra",
+        label: "Jala"
+    },
+    confirmed: true,
+    sources: [
+        {
+            date: 1927,
+            label: "Yalang",
+            source: "83M/SE",
+			group: "Ronrang"
+        },
+        {
+            date: 1955,
+            label: "Yalang",
+            source: "NG46-4"
+        },
+        {
+            date: 1967,
+            label: "Yalang",
+            source: "NG46-4"
+        }
+    ]
+}
