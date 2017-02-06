@@ -1,33 +1,35 @@
 {
-    _id: ObjectId("58918113ebcacc3e0c004248"),
+    _id: ObjectId("58918113ebcacc3e0c0041b1"),
+    confirmed: true,
     coord: [
-        27.21281,
-        95.94412
+        27.101463,
+        95.9314155
     ],
     display: {
-        color: "#fa0"
+        color: "rgba(0,0,0,0.4)"
     },
-    id: "6034d65e-0c76-47d5-877a-305fa46fcff4",
     properties: {
-        group: "Rếra",
-        label: "Jala"
+        group: "Mueshaung",
+        label: "Ghaqsawz Kanx"
     },
-    confirmed: true,
     sources: [
         {
             date: 1927,
-            label: "Yalang",
+            group: "",
+            label: "Hasingkān",
             source: "83M/SE",
-            group: "Ronrang"
+            sourcename: "Tandy"
         },
         {
-            date: 1955,
-            label: "Yalang",
+            date: 1957,
+            group: "",
+            label: "Hasingkān",
             source: "NG46-4"
         },
         {
             date: 1967,
-            label: "Yalang",
+            group: "",
+            label: "Hasingkān",
             source: "NG46-4"
         }
     ]
