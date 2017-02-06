@@ -8,6 +8,29 @@ The former is being done through a combination of digitisation of old survey map
 
 As part of this endeavour, we're also continuing to make improvements on the OpenStreetMap data for the area, especially in terms of waterways and mountain names which may assist in locating historical sites.
 
+## Historical sources
+
+British Survey maps:
+* 83M, ~1923, Japanese reprint
+* 83M/SE, published 1927 under E.A. Tandy
+* 83M/SE, 1927, Japanese reprint
+* 83N/NE, published 1934 under H.J. Couchman
+* 83N/NW, ~1930, Japanese reprint
+* 83N/SE, published 1930 under R.H. Thomas
+* 92A/3, 1926, Japanese reprint
+* 92B/NW, published 1923 under C.H.D. Ryder
+* 92B/SW, ~1923, Japanese reprint
+
+US Army Corps of Engineers maps:
+* NG46-4 Dibrugarh, 1957
+* NG46-4 Dibrugarh, 1967
+* NG46-8 Sibsagar, 1957
+* NG46-8 Sibsagar, 1967
+* NG47-1 Putao, 1957
+* NG47-1 Putao, 1967
+
+Additional sources of information acquired through personal communications, 2015-present
+
 ## Example documents
 The following are examples of a MongoDB document for a single village. The first is for a village which appears on a number of maps, with additional data confirmed by someone from the region.
 
