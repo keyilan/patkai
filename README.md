@@ -10,7 +10,9 @@ As part of this endeavour, we're also continuing to make improvements on the Ope
 
 ## Historical sources
 
-British Survey maps:
+Data for historical villages come from the following:
+
+**British Survey maps:**
 * 83M, ~1923, Japanese reprint
 * 83M/SE, published 1927 under E.A. Tandy
 * 83M/SE, 1927, Japanese reprint
@@ -21,7 +23,7 @@ British Survey maps:
 * 92B/NW, published 1923 under C.H.D. Ryder
 * 92B/SW, ~1923, Japanese reprint
 
-US Army Corps of Engineers maps:
+**US Army Corps of Engineers maps:**
 * NG46-4 Dibrugarh, 1957
 * NG46-4 Dibrugarh, 1967
 * NG46-8 Sibsagar, 1957
