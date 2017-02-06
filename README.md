@@ -10,7 +10,7 @@ As part of this endeavour, we're also continuing to make improvements on the Ope
 
 ## Historical sources
 
-Data for historical villages come from the following:
+Data for historical villages come primarily from the following:
 
 **British Survey maps:**
 * 83M, ~1923, Japanese reprint
@@ -31,10 +31,10 @@ Data for historical villages come from the following:
 * NG47-1 Putao, 1957
 * NG47-1 Putao, 1967
 
-Additional sources of information acquired through personal communications, 2015-present
+Additional sources of information acquired through personal communications, 2015-present, as well as additional historical maps where avaialble.
 
 ## Example documents
-The following are examples of a MongoDB document for a single village. The first is for a village which appears on a number of maps, with additional data confirmed by someone from the region.
+Data for the individual villages are stored in a [MongoDB](https://www.mongodb.com/) database. The following are examples of documents for single villages. The first is for a village which appears on a number of maps, with additional data confirmed by someone from the region.
 
 ```javascript
 {
