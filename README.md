@@ -8,5 +8,47 @@ The former is being done through a combination of digitisation of old survey map
 
 As part of this endeavour, we're also continuing to make improvements on the OpenStreetMap data for the area, especially in terms of waterways and mountain names which may assist in locating historical sites.
 
+## Example document
+The following is an example of a MongoDB document for a single village.
+
+```javascript
+{
+    _id: ObjectId("58918113ebcacc3e0c0041b1"),
+    confirmed: true,
+    coord: [
+        27.101463,
+        95.9314155
+    ],
+    display: {
+        color: "rgba(0,0,0,0.4)"
+    },
+    properties: {
+        group: "Mueshaung",
+        label: "Ghaqsawz Kanx"
+    },
+    sources: [
+        {
+            date: 1927,
+            group: "",
+            label: "Hasingkān",
+            source: "83M/SE",
+            sourcename: "Tandy"
+        },
+        {
+            date: 1957,
+            group: "",
+            label: "Hasingkān",
+            source: "NG46-4"
+        },
+        {
+            date: 1967,
+            group: "",
+            label: "Hasingkān",
+            source: "NG46-4"
+        }
+    ]
+}
+```
+
 ## Sample screenshot
 ![](http://phonemica.net/github/patkai.jpg)
