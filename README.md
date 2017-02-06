@@ -8,8 +8,8 @@ The former is being done through a combination of digitisation of old survey map
 
 As part of this endeavour, we're also continuing to make improvements on the OpenStreetMap data for the area, especially in terms of waterways and mountain names which may assist in locating historical sites.
 
-## Example document
-The following is an example of a MongoDB document for a single village.
+## Example documents
+The following are examples of a MongoDB document for a single village. The first is for a village which appears on a number of maps, with additional data confirmed by someone from the region.
 
 ```javascript
 {
@@ -48,6 +48,15 @@ The following is an example of a MongoDB document for a single village.
         }
     ]
 }
+```
+
+Some villages were both founded and abandoned in between the periods during which surveys were made. Otherws have life spans which can be approximated, or founding dates that are clearly known. For such locations, lifespan dates are also given:
+
+```javascript
+    life: {
+        start: 1960,
+        stop: 1985
+    },
 ```
 
 ## Sample screenshot
